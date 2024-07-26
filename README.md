@@ -1,2 +1,5 @@
-# Youtube_Downloader
-YouTube Downloader Desktop App Developed Using Python
+# Youtube Downloader
+### YouTube Downloader Desktop App Developed Using Python
+##### Libraries Used:
+- TKinter.
+- Pytube.
